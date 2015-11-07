@@ -1,0 +1,28 @@
+{
+  "name": "web-boiletplate",
+  "description": "Boilerplate for Web projects from Jonas Reitmann",
+  "author": "Jonas Reitmann",
+  "contributors": [
+    {
+      "name": "Jonas Reitmann",
+      "email": "jonas@reitmann.me"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonicious"
+  },
+  "bugs": {
+    "url": "https://github.com/jonicious"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "browser-sync": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-sass": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cssmin": "*",
+    "gulp-notify": "*"
+  }
+}
